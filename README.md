@@ -1,4 +1,4 @@
-### Hi there 👋
+### This page is intended to look nice in the future
 
 <!--
 **christian-eismann/christian-eismann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
